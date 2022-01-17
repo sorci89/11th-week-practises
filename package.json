@@ -1,0 +1,23 @@
+{
+  "name": "11th-week-practises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myTestLib.js",
+  "scripts": {
+    "test": "jest"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorci89/11th-week-practises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sorci89/11th-week-practises/issues"
+  },
+  "homepage": "https://github.com/sorci89/11th-week-practises#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
